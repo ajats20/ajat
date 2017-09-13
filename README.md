@@ -1,0 +1,2 @@
+# ajat
+safelink-kita.ml
